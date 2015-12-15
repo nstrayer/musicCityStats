@@ -1,0 +1,48 @@
+---
+layout: post
+title:  At The Hostel
+date:   2014-12-28 15:15:45
+categories: jekyll update
+---
+
+### Result(s):
+We’ve made it to our hostel for the first night.
+
+### Methods: 
+We arrived very early (6 am local, 1 am EST) and took a bus into the city. Once there we wandered for a bit as nothing was open. In our wanderings we walked through the Trinity College Dublin Campus:
+
+![Trinity College]({{ site.baseurl }}/assets/trinityCollegeCampus.jpg)
+
+After this we went to a cafe and had the traditional Irish breakfast of a bunch of things that don’t make sense to go together (but taste really good): 
+
+![breakfast]({{ site.baseurl }}/assets/irishBreakfast.jpg)
+
+After this we walked around some more and went to the Dublin Castle. Which contains the only still standing medieval architecture in the whole city (the center tower-ish thing, the other stuff are more contemporary additions). The walls are 15 feet thick!
+
+![Castle]({{ site.baseurl }}/assets/dublinCastle.jpg)
+
+From here we went to the Dublin City Gallery which has a large selection of contemporary art. 
+
+Tyler slept… 
+![sleeping]({{ site.baseurl }}/assets/tylerSleeps1.jpg)
+
+a good amount: 
+
+![still sleeping]({{ site.baseurl }}/assets/tylerSleeps2.jpg)
+
+After this we walked to where we are now: at our hostel. 
+
+(This is the view:)
+
+![view]({{ site.baseurl }}/assets/hostel.jpg)
+
+We are going to take a quick nap and go grab dinner! 
+
+
+
+
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help

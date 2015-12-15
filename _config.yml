@@ -1,0 +1,12 @@
+# Site settings
+title: Nick and Tyler go to Europe!
+email: nick.strayer@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Blog of photos and stories of the gang violence Tyler has implicated us in.
+baseurl: "/europeBlog" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: nstrayer
+github_username:  nstrayer
+
+# Build settings
+markdown: kramdown

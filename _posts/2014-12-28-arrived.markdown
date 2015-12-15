@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Arrived!
+date:   2014-12-28 05:53:45
+categories: jekyll update
+---
+We have arrived! At the Dublin airport now utilizing free WiFi and attempting to figure out travel plans into the city. 
+
+![Brushing Teeth]({{ site.baseurl }}/assets/brushingTeeth.jpg)
+
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
