@@ -6,4 +6,7 @@ categories: jekyll update
 ---
 
 Here shall go our infinite words of wisdom that come from our many many years of
-experience in the world of biostatistics. 
+experience in the world of biostatistics.
+
+The best formula in the world: 
+$$f(x) = \frac{e^{-\lambda} \lambda^x}{x!}$$

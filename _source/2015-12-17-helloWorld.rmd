@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Samples"
+author: "Nick, Lucy"
+date:   2015-12-18 13:10:30
+categories: jekyll update
+---
+
+
+This is a quick test of publishing r markdown files to jekyll. 
+
+```{r,fig.align='center'}
+hist(rnorm(1000))
+```
+
+```{r}
+print("hello, world")
+```
+
+this is some more text for you. 
+
+
+$$f(x) = \frac{e^{-\lambda} \lambda^x}{x!}$$
